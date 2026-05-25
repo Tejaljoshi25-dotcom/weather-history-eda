@@ -42,6 +42,8 @@ Real-world data is never perfect. While analyzing the data, I caught a major har
 * **Visualizations:** `seaborn` & `matplotlib` (Joint plots, threshold distribution matrices)
 
 ---
+## Author
+Tejal Joshi
 
 ## 📂 Quick Start
 ```bash
@@ -51,5 +53,4 @@ git clone [https://github.com/Tejaljoshi25-dotcom/weather-history-eda.git](https
 # Open the notebook
 # Launch 'Weather history (1).ipynb' in Jupyter or Google Colab to see the full code.
 
-## Author
-Tejal Joshi
+
