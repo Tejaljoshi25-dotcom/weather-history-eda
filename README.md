@@ -50,3 +50,6 @@ git clone [https://github.com/Tejaljoshi25-dotcom/weather-history-eda.git](https
 
 # Open the notebook
 # Launch 'Weather history (1).ipynb' in Jupyter or Google Colab to see the full code.
+
+## Author
+Tejal Joshi
