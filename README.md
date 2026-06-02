@@ -41,6 +41,9 @@ Real-world data is never perfect. While analyzing the data, I caught a major har
 * **Data Wrangling:** `pandas` & `numpy`
 * **Visualizations:** `seaborn` & `matplotlib` (Joint plots, threshold distribution matrices)
 
+  <img width="1211" height="869" alt="image" src="https://github.com/user-attachments/assets/839e6b27-d2a6-42f0-95a7-ac02b6844906" />
+
+
 ---
 ## Author
 Tejal Joshi
