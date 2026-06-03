@@ -41,7 +41,10 @@ Real-world data is never perfect. While analyzing the data, I caught a major har
 * **Data Wrangling:** `pandas` & `numpy`
 * **Visualizations:** `seaborn` & `matplotlib` (Joint plots, threshold distribution matrices)
 
- <img width="800" height="450" alt="WhatsAppVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bedebda0-9452-407d-8624-5260acda6b31" />
+  
+
+<img width="800" height="450" alt="WhatsAppVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4a48e4cb-b7ec-45ce-8dc1-b7711077e267" />
+
 
 
 
