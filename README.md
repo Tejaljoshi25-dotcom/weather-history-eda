@@ -6,6 +6,10 @@ A data-driven Exploratory Data Analysis (EDA) project that tests real-world weat
 
 ---
 
+## Problem Statement
+
+"How are weather patterns evolving over time? The objective of this project is to analyze historical weather data to identify long-term trends and seasonality in temperature, humidity, and precipitation. By exploring this dataset, we aim to uncover insights into extreme weather events and understand recurring climatic patterns."
+
 ## 🚀 Why This Project Matters
 Instead of just plotting basic graphs, this project treats meteorological rules as data puzzles. By writing rigorous data pipelines in Python, I validated established weather theories using historical empirical data—making sure the dataset is structurally sound and ready for Machine Learning.
 
