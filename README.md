@@ -33,14 +33,14 @@ Instead of just plotting basic graphs, this project treats meteorological rules 
 
 ---
 
-## 🚨 Anomaly Detection: Catching a Sensor Glitch
+##  Anomaly Detection: Catching a Sensor Glitch
 Real-world data is never perfect. While analyzing the data, I caught a major hardware error that automated tools would miss:
 * **The Error:** The dataset recorded a `Snow` event at exactly **`0.0%` Humidity**.
 * **The Logic:** Physics dictates that snow cannot form or fall in a completely dry vacuum. I flagged this data point as a **sensor glitch**, demonstrating why human data cleaning is vital before building AI models.
 
 ---
 
-## 🛠️ Tools & Tech Stack
+##  Tools & Tech Stack
 * **Language:** Python 3
 * **Data Wrangling:** `pandas` & `numpy`
 * **Visualizations:** `seaborn` & `matplotlib` (Joint plots, threshold distribution matrices)
@@ -60,7 +60,7 @@ Tejal Joshi
 
 https://www.linkedin.com/in/tejal-joshi-137b2b391/
 
-## 📂 Quick Start
+##  Quick Start
 ```bash
 # Clone this repository
 git clone [https://github.com/Tejaljoshi25-dotcom/weather-history-eda.git](https://github.com/Tejaljoshi25-dotcom/weather-history-eda.git)
