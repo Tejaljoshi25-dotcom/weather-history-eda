@@ -1,6 +1,6 @@
 # weather-history-eda
 Exploratory Data Analysis (EDA) on historical weather data to validate core meteorological hypotheses and thermodynamic laws using Python.
-# 🌤️ Weather Trends & Statistical Insights (EDA)
+#  Weather Trends & Statistical Insights (EDA)
 
 A data-driven Exploratory Data Analysis (EDA) project that tests real-world weather patterns, flags sensor issues, and reveals how temperature, pressure, and wind speed interact in nature.
 
@@ -10,12 +10,12 @@ A data-driven Exploratory Data Analysis (EDA) project that tests real-world weat
 
 "How are weather patterns evolving over time? The objective of this project is to analyze historical weather data to identify long-term trends and seasonality in temperature, humidity, and precipitation. By exploring this dataset, we aim to uncover insights into extreme weather events and understand recurring climatic patterns."
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 Instead of just plotting basic graphs, this project treats meteorological rules as data puzzles. By writing rigorous data pipelines in Python, I validated established weather theories using historical empirical data—making sure the dataset is structurally sound and ready for Machine Learning.
 
 ---
 
-## 📊 3 Big Discoveries From the Data
+##  3 Big Discoveries From the Data
 
 ### 1. Wind Speed vs. Visibility (The Air Clearing Effect)
 * **What I Tested:** Does higher wind speed actually clear the air?
